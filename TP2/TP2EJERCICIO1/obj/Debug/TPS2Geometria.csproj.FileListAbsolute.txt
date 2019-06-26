@@ -1,0 +1,7 @@
+C:\Users\rbdiaz\source\repos\TPS2\TPS2\bin\Debug\TPS2.exe.config
+C:\Users\rbdiaz\source\repos\TPS2\TPS2\bin\Debug\TPS2.exe
+C:\Users\rbdiaz\source\repos\TPS2\TPS2\bin\Debug\TPS2.pdb
+C:\Users\rbdiaz\source\repos\TPS2\TPS2\obj\Debug\TPS2Geometria.csprojAssemblyReference.cache
+C:\Users\rbdiaz\source\repos\TPS2\TPS2\obj\Debug\TPS2Geometria.csproj.CoreCompileInputs.cache
+C:\Users\rbdiaz\source\repos\TPS2\TPS2\obj\Debug\TPS2.exe
+C:\Users\rbdiaz\source\repos\TPS2\TPS2\obj\Debug\TPS2.pdb
