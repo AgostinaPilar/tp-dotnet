@@ -1,0 +1,7 @@
+C:\Users\rbdiaz\source\repos\TP2EJ2\TP5\bin\Debug\TP5.exe.config
+C:\Users\rbdiaz\source\repos\TP2EJ2\TP5\bin\Debug\TP5.exe
+C:\Users\rbdiaz\source\repos\TP2EJ2\TP5\bin\Debug\TP5.pdb
+C:\Users\rbdiaz\source\repos\TP2EJ2\TP5\obj\Debug\TP5.csproj.CoreCompileInputs.cache
+C:\Users\rbdiaz\source\repos\TP2EJ2\TP5\obj\Debug\TP5.exe
+C:\Users\rbdiaz\source\repos\TP2EJ2\TP5\obj\Debug\TP5.pdb
+C:\Users\rbdiaz\source\repos\TP2EJ2\TP5\obj\Debug\TP5.csprojAssemblyReference.cache
